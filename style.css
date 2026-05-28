@@ -124,20 +124,17 @@
     border-radius:10px;
   }
   
-  .license-card img{
+   .license-card img{
     width:100%;
+    height:auto;
+  
+    display:block;
   
     border:4px solid white;
   
     margin-bottom:20px;
   
-    image-rendering:pixelated;
-  }
-  
-  .license-card h2{
-    font-size:16px;
-  
-    margin-bottom:15px;
+    image-rendering:auto;
   }
   
   .license-card p{
