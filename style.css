@@ -191,7 +191,11 @@
     header p{
         font-size:12px;
     }
-  
+
+    header intro-text{
+        font-size:12px;
+    }
+      
     nav{
       flex-wrap:wrap;
     }
